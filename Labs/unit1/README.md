@@ -1,0 +1,1 @@
+![Firefox proxy error page](images/Screenshot 2026-07-08 184149.png)
